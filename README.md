@@ -196,9 +196,9 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**K. Kouskhan**
+**KAOUS KHAN S AND SUJITHA A**
 
 Aspiring Data Analyst | Machine Learning Enthusiast | Python Developer
 
